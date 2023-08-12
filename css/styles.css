@@ -105,7 +105,6 @@ img {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   width: 333px;
-  margin: 0;
   margin: 0 auto;
   margin-bottom: 72px;
 }
@@ -466,9 +465,7 @@ img {
 .customers-icon {
   fill: currentColor;
 }
-.customers-title {
-  margin-bottom: 72px;
-}
+
 /**
   |============================
   | Section Portfolio
