@@ -430,10 +430,6 @@ img {
   |============================
 */
 
-.customers-title {
-  margin-bottom: 72px;
-}
-
 .customers-list {
   display: flex;
   justify-content: space-between;
@@ -468,6 +464,9 @@ img {
 }
 .customers-icon {
   fill: currentColor;
+}
+.customers-title {
+  margin-bottom: 72px;
 }
 /**
   |============================
